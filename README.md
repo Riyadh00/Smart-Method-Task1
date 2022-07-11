@@ -2,7 +2,7 @@
 
 The first task in the cooperative training whith Smart Meathods Company.
 
-The task is divided into two separate Tasks:
+The task is divided into two separate tasks:
 
 1-Create Website that Convert speech to text
 

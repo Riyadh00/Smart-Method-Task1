@@ -1,1 +1,1 @@
-# Smart-Method-Task1
+# SmartMethods-Task1

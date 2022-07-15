@@ -1,6 +1,6 @@
 # SmartMethods-IOT-Task1
 
-The first task in the cooperative training whith Smart Meathods Company.
+The first task in the cooperative training with Smart Methods Company.
 
 The task is divided into two separate tasks:
 
